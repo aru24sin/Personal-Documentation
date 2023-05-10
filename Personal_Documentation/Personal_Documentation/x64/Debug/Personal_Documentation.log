@@ -1,0 +1,10 @@
+﻿  arraysreferences.cpp
+  classesobjects.cpp
+  funcs.cpp
+  ifelse.cpp
+  math.cpp
+  switchloops.cpp
+  variables.cpp
+D:\OneDrive\Desktop\Personal Projects\C++\Personal_Documentation\Personal_Documentation\variables.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+D:\OneDrive\Desktop\Personal Projects\C++\Personal_Documentation\Personal_Documentation\math.cpp(14): error C4700: uninitialized local variable 'z' used
