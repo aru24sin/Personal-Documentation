@@ -4,7 +4,7 @@ using namespace std;
 void conds() {
 	int i = 5;
 	int j = 4;
-	if(i>j){
+	if(i > j){
 		cout << "I is greater" << endl;
 	}
 	else{
